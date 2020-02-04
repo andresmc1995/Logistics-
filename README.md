@@ -1,10 +1,4 @@
-Project deployed to Firebase, URL: https://prueba-404d4.firebaseapp.com/
 
-Use the three following username/password combinations as the required input fields to log in:
-
-1)Direccion de correo: hola@hola.com Contraseña: 123456789
-2)Direccion de correo: unilever@unilever.com Contraseña: 123456789
-3)Direccion de correo: carrefour@carrefour.com Contraseña: 123456789
 
 ## Build Setup
 
